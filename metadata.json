@@ -1,0 +1,7 @@
+{
+  "name": "VetMaster Pro",
+  "description": "A comprehensive veterinary management system for large and small animals, featuring animal registration, medical history, inventory control, and financial tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
